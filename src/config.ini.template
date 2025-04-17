@@ -1,0 +1,10 @@
+[LLM]
+# LM Studio gamma model endpoint
+endpoint = http://localhost:1234/v1/gamma
+api_key = LMStudio
+timeout = 60
+model = gemma-3-12b-it
+
+[Logging]
+# INFO, DEBUG, WARNING, ERROR, CRITICAL
+level = INFO
